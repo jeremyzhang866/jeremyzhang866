@@ -19,7 +19,7 @@
 
 ## 🧩 Recent Focus / 最近的关注
 
-- ⚙️ **多节点 LLM 推理加速**（vLLM, DeepSpeed Inference）
+- ⚙️ **多节点 LLM 推理加速**（vLLM）
 - 🧠 **开源模型训练实战**（LLaMA, DeepSeek, Qwen）
 - 📈 **监控与性能分析**（Prometheus, logging, 分布式 tracing）
 - 🧪 **异步编程与微服务设计**（Python 3.9+ / FastAPI / aiohttp）
@@ -28,4 +28,4 @@
 
 ## 🌏 Links / 联系我
 
-- 📫 Email: `jeremy.zhang866@gmail.com@example.com`
+- 📫 Email: `jeremy.zhang866@gmail.com`
