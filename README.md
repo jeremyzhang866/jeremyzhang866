@@ -7,8 +7,8 @@
 
 ## 🧩 Recent Focus
 
-- ⚙️ vLLM
-- 🧠 LLaMA, DeepSeek, Qwen
+- ⚙️ SGlang, vLLM
+- 🧠 DeepSeek, Qwen
 
 ---
 
